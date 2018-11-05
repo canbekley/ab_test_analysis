@@ -7,7 +7,7 @@ By: Can Bekleyici - bekleydata.com<br>
 For this project, I analyzed the results of an A/B test run by an e-commerce website in order to generate higher conversions. I approached this task by performing a hypothesis test in addition to a logistic regression model using the Python libraries Pandas, NumPy and StatsModels.
 
 ## Key Findings
-By using a bootstrapping technique to simulate 10.000 random samples the difference of each website's conversion rate and by calculating the percentage of samples that are below the observed difference in conversion rates, a p-value of of 0.89 could be observed. This p-value is above the previously set threshold of 5%, and suggests not to reject the null hypothesis, which in this case is the old webpage. An additional logistic regression goes even further by suggesting that users on the old page are about 1.015 more likely to convert on average than users on the new page.
+By using a bootstrapping technique to simulate 10.000 random samples of the difference of each website's conversion rate and by calculating the percentage of samples that are below the observed difference in conversion rates, a p-value of of 0.89 could be observed. This p-value is above the previously set threshold of 5%, and suggests not to reject the null hypothesis, which in this case is the old webpage. An additional logistic regression goes even further by suggesting that users on the old page are about 1.015 more likely to convert on average than users on the new page.
 
 ## Prerequisite
 ### Files that are included:
