@@ -3,6 +3,8 @@ Created: October 7, 2018<br>
 Latest Update: October 7, 2018<br>
 By: Can Bekleyici - bekleydata.com<br>
 
+<img src="project3.jpg" height="400px" width="500px">
+
 ## Summary
 For this project, I analyzed the results of an A/B test run by an e-commerce website in order to generate higher conversions. I approached this task by performing a hypothesis test in addition to a logistic regression model using the Python libraries Pandas, NumPy and StatsModels.
 
